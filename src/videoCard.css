@@ -1,0 +1,19 @@
+.videocard__thumbnail{
+    margin-bottom: 40px;
+    width: 270px;
+}
+
+.videoCard{
+    margin-left: 40px;
+    width: 250px;
+    
+}
+
+.videoCard:hover{
+    background-color: lightgray;
+    cursor: pointer;
+}
+
+.videoCard__info{
+    display: flex;
+}
